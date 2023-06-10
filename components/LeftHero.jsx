@@ -9,9 +9,9 @@ const LeftHero = () => {
         <p className='md:my-[2rem] text-[1.2rem] text-zinc-900'>
         Launch your new startup with this simple, professional Bootstrap 5 template. Great for new businesses in the fintech space.
         </p>
-        <div className='text-white'>
+        <div className='text-white my-5  md:my-0'>
 
-            <button className=' bg-[rgb(97,75,255)] font-bold mr-4 p-4 rounded-lg'>
+            <button className=' bg-[rgb(97,75,255)] font-bold mr-4 mb-4 md:mb-0 p-4 rounded-lg'>
                 EXPLORE NOW
             </button>
             <button className='text-black font-bold border-[rgb(97,75,255)] p-4 rounded-lg  border  '>

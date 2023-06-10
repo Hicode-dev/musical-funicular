@@ -2,7 +2,7 @@ import React from 'react'
 
 const PurpleNav = () => {
   return (
-    <div className='d-none  nav font-bold text-white md:flex justify-around items-center  bg-[rgb(97,75,255)]'>
+    <div className='hidden  nav font-bold text-white  md:flex justify-around items-center  bg-[rgb(97,75,255)]'>
         <div className="borrow">
         BORROW LOAN WEBSITE
         </div>
