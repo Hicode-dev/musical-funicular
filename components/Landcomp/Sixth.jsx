@@ -14,26 +14,26 @@ const Sixth = () => {
                    
 
 
-                        <h5 class="mb-2 text-[2.5rem] font-bold tracking-tight text-black">Over 5000+</h5>
-                        <p class="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">members</p>
+                        <h5 className="mb-2 text-[2.5rem] font-bold tracking-tight text-black">Over 5000+</h5>
+                        <p className="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">members</p>
                         </div>
-                    <div  class="block max-w-sm p-6   text-black  ">
+                    <div  className="block max-w-sm p-6   text-black  ">
 
 
-                        <h5 class="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$3500+</h5>
-                        <p class="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in reward earned </p>
+                        <h5 className="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$3500+</h5>
+                        <p className="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in reward earned </p>
                         </div>
-                    <div  class="block max-w-sm p-6   text-black  ">
+                    <div  className="block max-w-sm p-6   text-black  ">
 
 
-                        <h5 class="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$34M+</h5>
-                        <p class="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in dept off</p>
+                        <h5 className="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$34M+</h5>
+                        <p className="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in dept off</p>
                         </div>
-                    <div  class="block max-w-sm p-6   text-black  ">
+                    <div  className="block max-w-sm p-6   text-black  ">
 
 
-                        <h5 class="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$73B+</h5>
-                        <p class="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in funded loans</p>
+                        <h5 className="mb-2 text-[2.5rem] font-bold tracking-tight text-black">$73B+</h5>
+                        <p className="font-normal text-[1.3rem] text-gray-700 dark:text-gray-400">in funded loans</p>
                         </div>
 
 
