@@ -6,6 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/lab": "^5.0.0-alpha.133",
+    "@mui/material": "^5.13.4",
     "install": "^0.13.0",
     "next": "latest",
     "react": "^17.0.2",
